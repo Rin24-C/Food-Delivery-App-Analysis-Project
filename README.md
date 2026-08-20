@@ -60,7 +60,8 @@ Overall, company performance is stable and profitable. While costs are relativel
 
 
 - Feb. to May are considerably low.
-    - Ramadan in Pakistan and Bangladesh could have played a factor from March to April.
+    - Ramadan in Pakistan, Bangladesh, and Malaysia could have played a factor in decreased orders from March to April.
+    - Lent in The Philippines, especially during Holy Week, could also have done something similar in February. 
     - Another factor is the rising temperature.
       - Summer heat might dissuade delivery riders from accepting more orders.
 
@@ -70,9 +71,11 @@ Overall, company performance is stable and profitable. While costs are relativel
 
 - Actionable insights
     - Increase incentives for delivery riders during summer months.
-    - Lower marketing activities in the morning and afternoon during Ramadan in Pakistan and Bangladesh for religio-cultural reasons.
-    - Increase them for nightly hours only.
-    - Otherwise, maintain current marketing strategies in Pakistan and Bangladesh.
+    - Lower marketing activities in the morning and afternoon during Ramadan in Pakistan, Bangladesh, and Malaysia for religio-cultural reasons.
+      - Increase them for nightly hours only.
+    - Lowering similar activities in The Philippines during Holy Week could also be applied.
+      - Another strategy is to market/advertise Lent-friendly (e.g. fish, vegetables, fruits) products for customers. 
+   
  
  ### Customer Types: total orders and revenue
 <img width="1498" height="724" alt="Customer Type" src="https://github.com/user-attachments/assets/deeffdfe-fc79-4a01-82a1-da507d8a0fc8" />
@@ -88,7 +91,7 @@ Overall, company performance is stable and profitable. While costs are relativel
 ### Purchase Frequency per country
 <img width="262" height="284" alt="Purchase Frequency" src="https://github.com/user-attachments/assets/1fe2b6b1-2ab0-4126-b9bc-9f69c146657a" />
 
-- Pakistan has the highest purchase frequency while Myanmar has the lowest, reflecting the total orders data above.
+- Pakistan has the highest purchase frequency (1.59) while Myanmar has the lowest (1.07), reflecting the total orders data above.
 
 - The Philippines, Hong Kong, and Taiwan should be areas of concern given their general profiles as countries with high residential count.
   
@@ -109,17 +112,65 @@ Overall, company performance is stable and profitable. While costs are relativel
   
 - However, the cash-flow metrics at the country- and city-levels do vary.
   
-- Singapore turns out to have produced the highest revenue. While its total cost and cost-to-revenue ratio are the highest, its net profit margin is exceptionally the highest too.
+- Pakistan and Singapore turn out to have produced the highest revenues. While their total cost and cost-to-revenue ratios are the highest, their net profit margins are exceptionally the highest too.
   
 - The cities lagging behind are Yangon in Myanmar, and Manila and Cebu in the Philippines.
   - Yangon’s low net profit margin is expected due to the reason stated above.
   - Cebu and Manila should have special attention because of their low net profit margins even though both cities are thriving megapolises and are not experiencing severe politico-economic or financial turmoil.
   
 - Actionable insights
-  - Maintain current strategy in Singapore but if the cost to revenue ratio should be lowered it is recommended to cut back on marketing costs if brand awareness among Singaporeans is already high.
+  - Maintain current strategy in Pakistan and Singapore but if the cost to revenue ratio should be lowered it is recommended to cut back on marketing costs if brand awareness among Singaporeans and Pakistani is already high.
   - Given their low total costs and revenues, Cebu and Manila might be suffering from lack of marketing and brand awareness.
     - Both cities are considered metropolises with high residential count so a high-impact marketing program should influence customers to avail company service.
     - Use paid social media ads given Manila’s reputation as a major social media hub. It is recommendable to apply this to Cebu too.
+
+### Cash-flow performance by month in 2024
+<img width="1498" height="724" alt="Finance Monthly Totals Stacked" src="https://github.com/user-attachments/assets/99ca568c-7e70-4673-9599-cb82ab6cd55b" />
+
+<img width="1502" height="724" alt="Finance Moving Avg" src="https://github.com/user-attachments/assets/1a06add3-d600-4f79-832c-b785a3a0c437" />
+
+- Financial performance in general is stable.
+  - Stability can be seen with each metric’s moving average for 2024.
+
+- Revenues are comparably higher than costs throughout 2024, indicating that costs are under control and company activities are profitable.
+
+- Actionable insights
+  - Financial, operational, and marketing programs should be on a country by country or city by city basis.
+  - In order for company expenses to generate more revenue, it is recommended to focus on intensifying marketing programs for countries or cities with low outputs. 
+
+### Restaurant Profile
+<img width="1330" height="921" alt="Restaurants - General" src="https://github.com/user-attachments/assets/1dabecf1-edcc-416c-8818-d203c3ca1f3e" />
+
+- The majority of restaurant brands fall under the casual dining or fast food categories.
+  - As a result, most metrics are highest under these categories.
+
+- In comparison, there are not many cafes and fine dining restaurants registered at the food company.
+  - However, key performance metrics for these certain brands are equivalent if not higher than those from casual dining and fast food categories (emphasis on Tim Horton’s and Dragon Palace).
+ 
+- Actionable insights
+  - The operations team should look into integrating more cafes and fine dining establishments in the delivery system. 
+
+## Key Recommendations
+
+- Marketing programs in The Philippines, Cambodia, Taiwan, and Hong Kong should intensify to increase customer retention.
+  - Provide small discounts for employees and students in order to retain their demand.
+  - Ensure that marketing programs are active in areas with high concentrations of businesses, colleges and universities. 
+  - Also adjust these programs within local norms and cultural practices.
+    - Note religious holidays like Ramadan (in Bangladesh, Pakistan, and Malaysia) and Lent (in The Philippines).
+
+- Local teams said countries should also venture on expanding market reach in order for the company to cater to more customers and therefore increase revenue.
+  - They should explore other cities and areas with concentrated business or educational establishments because these areas will be the busiest, i.e. potential customers from these are likely to make orders since they have been spending their time mostly working or studying. 
+
+- Integrate more cafes and fine dining establishments in the system.
+  - Cafes should be the priority given their increasing popularity in recent years. 
+  - Local teams should also observe coffee and tea trends (e.g. matcha trend) in order to adjust their operations and marketing strategies for more cafe establishments.
+  - Special logistics may be needed for fine dining establishments and their products.
+      - While key performance metrics for these establishments may be high, costs could also increase too.
+      - Check current fine dining restaurants in the system and determine which of their products are appropriate for delivery services.
+
+
+
+
 
 
 

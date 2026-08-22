@@ -33,7 +33,7 @@ The dataset has been split into five spreadsheet tables. Each table has a specif
 The data was analyzed with the use of PostgreSQL and Google Sheets. Data visualization was done via Tableau Public. 
 
 ## Executive Summary
-Overall, company performance is stable and profitable. While costs are relatively high per month, these are counterbalanced by high monthly revenue. Performance for specific countries though are in need of improvement, especially The Philippines, Cambodia, Myanmar, Taiwan, and Hong Kong. Based on actionable insights, individual marketing programs for all countries (except Myanmar) should enhance customer retention as well as expanding market reach. Myanmar is an exception due to the socio-political climate it is currently experiencing. 
+Overall, company performance is stable and profitable. While costs are relatively high per month, these are counterbalanced by high monthly revenues. Performance for specific countries though are in need of improvement, especially The Philippines, Cambodia, Myanmar, Taiwan, and Hong Kong. Based on actionable insights, individual marketing programs for all countries (except Myanmar due to its current socio-political situation) should prioritize enhancing customer retention as well as expanding market reach. Such programs should provide additional incentives (e.g. discounts, promos) in order to both attract new and retain loyal customers. Additionally, local teams need to expand the company's reach by exploring other cities and areas with high-concentration of business establishments.
 
 ## Insights Discussion
 

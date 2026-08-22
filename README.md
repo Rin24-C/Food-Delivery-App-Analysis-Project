@@ -24,9 +24,12 @@ This project looks at the data from the country- and city-levels. It will also u
   * Profit
  
 ## Data Structure Overview
-The data used is available on Kaggle (https://www.kaggle.com/datasets/faheem113141/foodpanda-pakistan-customer-orders-and-churn-dataset). Note that the creator/author of the dataset stated that all data were generated synthetically. 
+The data used is available on Kaggle (https://www.kaggle.com/datasets/faheem113141/foodpanda-pakistan-customer-orders-and-churn-dataset); it was uploaded by Muhammad Faheem Iqbal. Note that the creator/author/uploader of the dataset stated that all data were generated synthetically. 
 
-The dataset has been split into four spreadsheet tables. Each table has a specific focus: customer orders, financial data, delivery data, and restaurant data. 
+<img width="609" height="1263" alt="ERD_FP_PORTFOLIO pgerd" src="https://github.com/user-attachments/assets/8cb88f25-a197-4b63-b758-ff0890a05cce" />
+
+The dataset has been split into five spreadsheet tables. Each table has a specific focus: orders data, customers data, financial data, delivery data, and restaurant data. 
+
 The data was analyzed with the use of PostgreSQL and Google Sheets. Data visualization was done via Tableau Public. 
 
 ## Executive Summary
